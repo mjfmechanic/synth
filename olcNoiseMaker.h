@@ -63,6 +63,8 @@
 #include <thread>
 #include <atomic>
 #include <condition_variable>
+#include <mmreg.h>
+#include <mmsystem.h>
 using namespace std;
 
 #include <Windows.h>
